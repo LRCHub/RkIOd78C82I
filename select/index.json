@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Soranji",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-13T04:41:12.182429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_Soranji_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/02_Soranji_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_Soranji_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_Soranji_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_Soranji_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soranji (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_Soranji_(~The_White_Lounge_Version~___Live)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs Green Apple",
+      "has_synced": true,
+      "path": "select/07_Soranji_Mrs_Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_Soranji_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs. GREEN APPLE, 206M plays",
+      "has_synced": true,
+      "path": "select/09_Soranji_Mrs._GREEN_APPLE,_206M_plays.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Song, Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_Soranji_Song,_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soranji",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Soranji_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
